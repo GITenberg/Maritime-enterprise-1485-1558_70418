@@ -1,0 +1,38 @@
+_repo: Maritime-enterprise-1485-1558_70418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williamson, James A. (James Alexander)
+    aliases:
+    - Williamson, J. A. (James Alexander)
+    - Williamson, James Alexander
+    birthdate: 1886
+    deathdate: 1964
+    gutenberg_agent_id: '55752'
+    url: http://www.gutenberg.org/2009/agents/55752
+    wikipedia: https://en.wikipedia.org/wiki/James_Williamson_(historian)
+description: ''
+gutenberg_issued: '2023-03-30'
+identifiers:
+  gutenberg: '70418'
+  lccn: '14014502'
+language: en
+pgterms:marc904: https://archive.org/details/maritimeenterpri0000will
+pgterms:marc905: 20191101185444williamson
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: MWS, KD Weeks and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aUnited Kingdom :$bClarendon Press, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Great Britain -- Commerce -- History -- 16th century'
+- !lcsh 'Great Britain -- Commerce -- History -- To 1500'
+- !lcc 'HF'
+- GITenberg
+title: Maritime enterprise, 1485-1558
+url: http://www.gutenberg.org/ebooks/70418
