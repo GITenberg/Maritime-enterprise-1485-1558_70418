@@ -1,5 +1,8 @@
 _repo: Maritime-enterprise-1485-1558_70418
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70418-h/images/cover.jpg
 creator:
   author:
     agent_name: Williamson, James A. (James Alexander)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55752
     wikipedia: https://en.wikipedia.org/wiki/James_Williamson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70418#Maritime-enterprise-1485-1558
 gutenberg_issued: '2023-03-30'
 identifiers:
   gutenberg: '70418'
